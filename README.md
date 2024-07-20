@@ -20,35 +20,7 @@ Billing management software tailored for prepaid smart water meters. It manages 
 - Database: MongoDB
 - Notification: Africa's Talking API
 
-## Project Structure
-prepaid-water-meter-management/
-├── backend/
-│   ├── config/
-│   │   ├── db.js
-│   │   ├── africaTalkConfig.js
-│   ├── controllers/
-│   ├── models/
-│   │   ├── Meter.js
-│   │   ├── Customer.js
-│   │   ├── Reading.js
-│   │   ├── Payment.js
-│   ├── routes/
-│   │   ├── meterRoutes.js
-│   │   ├── customerRoutes.js
-│   │   ├── readingRoutes.js
-│   │   ├── paymentRoutes.js
-│   ├── middleware/
-│   ├── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
-│   │   ├── index.js
-├── .env
-├── package.json
-└── README.md
+
 
 
 
